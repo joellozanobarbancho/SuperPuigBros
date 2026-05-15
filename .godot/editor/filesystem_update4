@@ -1,0 +1,6 @@
+res://scripts/pause_menu.gd
+res://scripts/player.gd
+res://scripts/world.gd
+res://scripts/hud.gd
+res://scenes/World.tscn
+res://scripts/enemy.gd
